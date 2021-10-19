@@ -14,7 +14,7 @@
 <br clear="left" clear="right"/>
 <div align="center">
   
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{SimonBradlow}/{SimonBradlow})
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=SimonBradlow.SimonBradlow?style=flat&color=blueviolet)
 </div>
 <!---
 - 📫 How to reach me ...
