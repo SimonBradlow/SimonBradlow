@@ -14,7 +14,7 @@
 <br clear="left" clear="right"/>
 <div align="center">
   
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/SimonBradlow/SimonBradlow)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{SimonBradlow}/{SimonBradlow})
 </div>
 <!---
 - 📫 How to reach me ...
