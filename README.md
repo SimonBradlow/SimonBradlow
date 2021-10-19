@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)  <br />
 
-- 👋 Hi, I’m @SimonBradlow
+- 👋 @SimonBradlow
 - 🌱 Currently pursuing a BA in Computer Science at UVM
 <!---
 - 📫 How to reach me ...
