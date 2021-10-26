@@ -1,7 +1,7 @@
 <img src="fish.gif" align="right" width="250px" height="200px"/>
 
 # @SimonBradlow 🍇👨‍🚀
-<img src="squidward.gif" align="left" width="70px"/>
+[//]: <> (<img src="squidward.gif" align="left" width="70px"/>)
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=4EAA25)
